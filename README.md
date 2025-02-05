@@ -4,7 +4,7 @@
 📍 Pursuing my degree in Northcap University
 
 🌱 Currently Learning
-Programming languages like Python, C, and Java
+Programming languages like Python, C,C++ and Java
 Data Structures & Algorithms (DSA)
 Web Development (HTML, CSS, JavaScript)
 🤝 Looking to Collaborate On
