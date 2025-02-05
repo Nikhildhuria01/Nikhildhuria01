@@ -1,7 +1,7 @@
 # 💫 About Me:
 🚀 About Me
 🎓 B.Tech Student | 1st Year
-📍 Pursuing my degree in North
+📍 Pursuing my degree in Northcap University
 
 🌱 Currently Learning
 Programming languages like Python, C, and Java
