@@ -1,6 +1,9 @@
 # 💫 About Me:
-🚀 **About Me**  
-**HI I AM NIKHIL**  
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=435&lines=HI+I+AM+NIKHIL" alt="Typing SVG" />
+</p>
+
 🎓 B.Tech Student | 1st Year  
 📍 Pursuing my degree at The Northcap University  
 
@@ -66,6 +69,7 @@ I love exploring new technologies and building cool projects in my free time!
 [![](https://visitcount.itsvg.in/api?id=Nikhildhuria01&icon=9&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
